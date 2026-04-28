@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyprus.avokatfinder.com/sitemap.xml
