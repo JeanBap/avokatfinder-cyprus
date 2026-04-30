@@ -1,5 +1,32 @@
 # AvökatFinder Cyprus
-> English-speaking law firm directory for Cyprus
+> The English-language directory of lawyers and law firms in Cyprus for expats, foreign nationals and international businesses.
 
-Directory: https://cyprus.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://cyprus.avokatfinder.com/: Home — find an English-speaking lawyer in Cyprus
+- https://cyprus.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Cyprus
+- https://cyprus.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Cyprus legal terms
+- https://cyprus.avokatfinder.com/blog/: Expat legal guides and property law articles for Cyprus
+- https://cyprus.avokatfinder.com/about/: About AvökatFinder Cyprus
+- https://cyprus.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://cyprus.avokatfinder.com/glossary/company-formation-cy/
+- https://cyprus.avokatfinder.com/glossary/contract-law-cy/
+- https://cyprus.avokatfinder.com/glossary/guardianship/
+- https://cyprus.avokatfinder.com/glossary/immovable-property-cy/
+- https://cyprus.avokatfinder.com/glossary/power-of-attorney/
+- https://cyprus.avokatfinder.com/glossary/testamentary-capacity/
+- https://cyprus.avokatfinder.com/glossary/title-deed-cy/
+- https://cyprus.avokatfinder.com/glossary/undue-influence/
+- https://cyprus.avokatfinder.com/glossary/vat-registration-cy/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Cyprus
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://cyprus.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
