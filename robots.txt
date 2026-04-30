@@ -1,3 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /private/
+Disallow: /admin/
+
 Sitemap: https://cyprus.avokatfinder.com/sitemap.xml
